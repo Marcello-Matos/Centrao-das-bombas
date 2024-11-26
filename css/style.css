@@ -77,7 +77,7 @@ h6 {
 }
 
 .logo {
-     width: 50%;
+     width: 60%;
      height: auto;
      margin: 0 auto;
      margin-top: -38px;
@@ -866,6 +866,11 @@ ul.conta li a {
 ul.link_menu li {
      display: block;
      text-align: left;
+     margin-left: 250px;
+}
+
+h3{
+     margin-left: 200px;
 }
 
 ul.link_menu li.active a {
@@ -939,6 +944,8 @@ ul.social_icon {
      width: 100%;
      float: left;
      text-align: left;
+     margin-top: 200px;
+     margin-left: 200px;
 }
 
 ul.social_icon li {
